@@ -1,0 +1,28 @@
+/*p,
+body {
+    background-color: chartreuse;
+} */
+
+h1:nth-child(1) {
+    font-size: 300%;
+}
+
+.redText {
+    color: red;
+}
+
+#awesomeId {
+    background-color: pink;
+    color: blue;
+}
+
+.bigText {
+    font-size: 75px;
+} 
+
+/*
+.redText {
+    color: yellow;
+} */
+
+
