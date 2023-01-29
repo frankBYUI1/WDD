@@ -1,0 +1,96 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#hero-msg h1{
+    text-align: center;
+}
+
+#hero-msg h4{
+    text-align: center;
+}
+
+nav a {
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+}
+
+.button-box {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: black;
+}
+h1 {
+    text-align: center;
+    background-color: burlywood;
+}
+
+#background {
+    height: 725px;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+footer p a:hover {
+    text-decoration: underline;
+}
+.book {
+    text-decoration: none;
+}
+.join {
+    text-decoration: none;
+}
+footer a {
+    text-decoration: none;
+}
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: black;
+}
+header {
+    background-color: burlywood;
+    color: black;
+}
+nav a:hover {
+    background-color: black;
+    color: yellow;
+}
+footer {
+    background-color: burlywood;
+    color: black;
+}
+.book:hover {
+    background-color: black;
+    color: yellow;
+}
+.join:hover {
+    background-color: black;
+    color: yellow;
+}
+.home-tittle {
+    color: black;
+}
+.icon {
+    width: 60px;
+}
+h2 {
+    background-color: burlywood;
+}
+.msg {
+    background-color: burlywood;
+}
+
+.msg h2 {
+    color: black;
+}
+
+.msg p {
+    color: black;
+}
